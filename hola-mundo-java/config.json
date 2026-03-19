@@ -5,7 +5,7 @@
       "en": "Personalized Hello World"
     }
   },
-  "evaluation": {
+  "evaluations": {
     "filename": "HelloWorld.java",
     "handler": "java"
   },
