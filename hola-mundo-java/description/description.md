@@ -9,7 +9,7 @@ Hola, soy Maria!
 La salida debe coincidir exactamente, sin texto extra ni espacios adicionales.
 
 ### Input
-No hay.
+No hay..
 
 ### Output
 ```
